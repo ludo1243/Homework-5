@@ -112,7 +112,7 @@ public class Main {
         } else if (monthNumber == 9 || monthNumber == 10 || monthNumber == 11) {
             System.out.println("Сейчас осень");
         } else {
-            System.out.println("Такого года нет\n");
+            System.out.println("Такого года нет\n ");
         }
     }
 }
